@@ -23,7 +23,7 @@ MongoDB (v4 or later)
 Installation
 To get started with this app, follow these steps:
 
-Clone this repository to your local machine using git clone https://github.com/bakar-dev/repo.git
+Clone this repository to your local machine using git clone https://github.com/bakar-dev/mern-stack-social-media.git
 
 Navigate to the app directory: cd repo
 
